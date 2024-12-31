@@ -1,7 +1,7 @@
 {
   "name": "robofriends-app",
   "private": true,
-  "homepage": "https://aneagoie.github.io/robofriends-vite/",
+  "homepage": "https://bpmdevr.github.io/robofriends-vite/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
